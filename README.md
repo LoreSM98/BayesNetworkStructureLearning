@@ -7,4 +7,4 @@ If one wishes to test the accuracy of the result for multiple dataset sizes at o
 
 Both a .py and a .ipynb are provided: the above instructions are for .py file.
 
-(references: https://link.springer.com/content/pdf/10.1023/A:1022623210503.pdf#page=21 , http://machinelearning102.pbworks.com/f/Tutorial-BayesianNetworks.pdf#page=21)
+(references: https://link.springer.com/content/pdf/10.1023/A:1022623210503.pdf , http://machinelearning102.pbworks.com/f/Tutorial-BayesianNetworks.pdf)
