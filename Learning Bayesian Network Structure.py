@@ -27,7 +27,7 @@ class Node:
                 return self.configurations[count]
             count+=1
 
-        #________________________________________________________________________________________________________
+#________________________________________________________________________________________________________
 
 class DAG:
     def __init__(self,nodes,randomInit=False):
@@ -440,8 +440,8 @@ if __name__ == '__main__':
     print("\nRunning beam_search with beam size b="+str(b)+'...')
     result=beam_search(b, my_dag.nodes,dataset)
     print('\nFinal Belief Network:')
-    result.draw('learned structure')
     print('accuracy: ' + str(accuracy(my_dag,result)*100) + '%')
+    result.draw('learned structure')
 
 
 
